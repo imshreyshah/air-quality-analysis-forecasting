@@ -15,5 +15,5 @@ Download the dataset and extract it out into the `air-quality-dataset` folder.
 - `rnn-lstm-model-AQI-forecasting.ipynb` - RNN-LSTM model for forecasting the air quality index.
 
 ## Author
-[Shrey Shah](https://github.com/imshreyshah), under the guidance of [Dr. Shamik Chakraborty](https://www.bits-pilani.ac.in/pilani/shamik/profile)
+[Shrey Shah](https://github.com/imshreyshah) and Parth Gupta, under the guidance of [Dr. Shamik Chakraborty](https://www.bits-pilani.ac.in/pilani/shamik/profile)
 
