@@ -9,11 +9,11 @@ The dataset contains air quality data and AQI (Air Quality Index) at hourly and 
 Download the dataset and extract it out into the `air-quality-dataset` folder.
 
 ## Notebooks
--- `air-quality-analysis.ipynb` - Contains the code used for visualizing the dataset.
--- `fb-prophet-air-quality-forecasting.ipynb` - FB Prophet model for forecasting the air quality index.
--- `sarima-model-AQI-forecasting.ipynb` - SARIMA model for forecasting the air quality index.
--- `rnn-lstm-model-AQI-forecasting.ipynb` - RNN-LSTM model for forecasting the air quality index.
+- `air-quality-analysis.ipynb` - Contains the code used for visualizing the dataset.
+- `fb-prophet-air-quality-forecasting.ipynb` - FB Prophet model for forecasting the air quality index.
+- `sarima-model-AQI-forecasting.ipynb` - SARIMA model for forecasting the air quality index.
+- `rnn-lstm-model-AQI-forecasting.ipynb` - RNN-LSTM model for forecasting the air quality index.
 
 ## Author
-[Shrey Shah](https://github.com/imshreyshah) under the guidance of [Dr. Shamik Chakraborty](https://www.bits-pilani.ac.in/pilani/shamik/profile)
+[Shrey Shah](https://github.com/imshreyshah), under the guidance of [Dr. Shamik Chakraborty](https://www.bits-pilani.ac.in/pilani/shamik/profile)
 
